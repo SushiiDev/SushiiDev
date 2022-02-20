@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... PHP and SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... chverdev@gmail.com or on my Instagram: __.sushiii.___
+- 📫 How to reach me ... chverenkool@gmail.com or on my Instagram: __.sushiii.___
 
 <!---
 SushiiDev/SushiiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
